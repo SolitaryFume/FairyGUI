@@ -1,0 +1,17 @@
+{
+    "name":"fairygui.unitysdk",
+    "displayName": "FairyGUI Unity SDK",
+    "description": "FairyGUI is a Cross Platform UI Editor & UI framework. Get FairyGUI-Editor",
+    "version":"4.3.0",
+    "unityVersion":"2018.3",
+    "keywords": [
+        "fairygui",
+        "unity",
+        "sdk"
+    ],
+    "repository": {
+		"type": "git",
+		"url": "git@github.com:fairygui/FairyGUI-unity.git"
+	}
+    
+}
